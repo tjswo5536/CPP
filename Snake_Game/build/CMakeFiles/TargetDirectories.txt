@@ -1,0 +1,3 @@
+/home/seonjae/projects/GAME/Snake_Game/build/CMakeFiles/snaker.dir
+/home/seonjae/projects/GAME/Snake_Game/build/CMakeFiles/edit_cache.dir
+/home/seonjae/projects/GAME/Snake_Game/build/CMakeFiles/rebuild_cache.dir

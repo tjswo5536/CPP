@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/home/seonjae/projects/GAME/Snake_Game/build",
+  "command": "/usr/bin/c++    -fsanitize=leak,address, -lcurses -std=gnu++17 -o CMakeFiles/snaker.dir/src/main.cpp.o -c /home/seonjae/projects/GAME/Snake_Game/src/main.cpp",
+  "file": "/home/seonjae/projects/GAME/Snake_Game/src/main.cpp",
+  "output": "CMakeFiles/snaker.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/seonjae/projects/GAME/Snake_Game/build",
+  "command": "/usr/bin/c++    -fsanitize=leak,address, -lcurses -std=gnu++17 -o CMakeFiles/snaker.dir/src/game.cpp.o -c /home/seonjae/projects/GAME/Snake_Game/src/game.cpp",
+  "file": "/home/seonjae/projects/GAME/Snake_Game/src/game.cpp",
+  "output": "CMakeFiles/snaker.dir/src/game.cpp.o"
+},
+{
+  "directory": "/home/seonjae/projects/GAME/Snake_Game/build",
+  "command": "/usr/bin/c++    -fsanitize=leak,address, -lcurses -std=gnu++17 -o CMakeFiles/snaker.dir/src/gate.cpp.o -c /home/seonjae/projects/GAME/Snake_Game/src/gate.cpp",
+  "file": "/home/seonjae/projects/GAME/Snake_Game/src/gate.cpp",
+  "output": "CMakeFiles/snaker.dir/src/gate.cpp.o"
+},
+{
+  "directory": "/home/seonjae/projects/GAME/Snake_Game/build",
+  "command": "/usr/bin/c++    -fsanitize=leak,address, -lcurses -std=gnu++17 -o CMakeFiles/snaker.dir/src/item.cpp.o -c /home/seonjae/projects/GAME/Snake_Game/src/item.cpp",
+  "file": "/home/seonjae/projects/GAME/Snake_Game/src/item.cpp",
+  "output": "CMakeFiles/snaker.dir/src/item.cpp.o"
+},
+{
+  "directory": "/home/seonjae/projects/GAME/Snake_Game/build",
+  "command": "/usr/bin/c++    -fsanitize=leak,address, -lcurses -std=gnu++17 -o CMakeFiles/snaker.dir/src/mission.cpp.o -c /home/seonjae/projects/GAME/Snake_Game/src/mission.cpp",
+  "file": "/home/seonjae/projects/GAME/Snake_Game/src/mission.cpp",
+  "output": "CMakeFiles/snaker.dir/src/mission.cpp.o"
+},
+{
+  "directory": "/home/seonjae/projects/GAME/Snake_Game/build",
+  "command": "/usr/bin/c++    -fsanitize=leak,address, -lcurses -std=gnu++17 -o CMakeFiles/snaker.dir/src/point.cpp.o -c /home/seonjae/projects/GAME/Snake_Game/src/point.cpp",
+  "file": "/home/seonjae/projects/GAME/Snake_Game/src/point.cpp",
+  "output": "CMakeFiles/snaker.dir/src/point.cpp.o"
+},
+{
+  "directory": "/home/seonjae/projects/GAME/Snake_Game/build",
+  "command": "/usr/bin/c++    -fsanitize=leak,address, -lcurses -std=gnu++17 -o CMakeFiles/snaker.dir/src/score.cpp.o -c /home/seonjae/projects/GAME/Snake_Game/src/score.cpp",
+  "file": "/home/seonjae/projects/GAME/Snake_Game/src/score.cpp",
+  "output": "CMakeFiles/snaker.dir/src/score.cpp.o"
+},
+{
+  "directory": "/home/seonjae/projects/GAME/Snake_Game/build",
+  "command": "/usr/bin/c++    -fsanitize=leak,address, -lcurses -std=gnu++17 -o CMakeFiles/snaker.dir/src/screen.cpp.o -c /home/seonjae/projects/GAME/Snake_Game/src/screen.cpp",
+  "file": "/home/seonjae/projects/GAME/Snake_Game/src/screen.cpp",
+  "output": "CMakeFiles/snaker.dir/src/screen.cpp.o"
+},
+{
+  "directory": "/home/seonjae/projects/GAME/Snake_Game/build",
+  "command": "/usr/bin/c++    -fsanitize=leak,address, -lcurses -std=gnu++17 -o CMakeFiles/snaker.dir/src/snake.cpp.o -c /home/seonjae/projects/GAME/Snake_Game/src/snake.cpp",
+  "file": "/home/seonjae/projects/GAME/Snake_Game/src/snake.cpp",
+  "output": "CMakeFiles/snaker.dir/src/snake.cpp.o"
+},
+{
+  "directory": "/home/seonjae/projects/GAME/Snake_Game/build",
+  "command": "/usr/bin/c++    -fsanitize=leak,address, -lcurses -std=gnu++17 -o CMakeFiles/snaker.dir/src/snakeGame.cpp.o -c /home/seonjae/projects/GAME/Snake_Game/src/snakeGame.cpp",
+  "file": "/home/seonjae/projects/GAME/Snake_Game/src/snakeGame.cpp",
+  "output": "CMakeFiles/snaker.dir/src/snakeGame.cpp.o"
+},
+{
+  "directory": "/home/seonjae/projects/GAME/Snake_Game/build",
+  "command": "/usr/bin/c++    -fsanitize=leak,address, -lcurses -std=gnu++17 -o CMakeFiles/snaker.dir/src/stage.cpp.o -c /home/seonjae/projects/GAME/Snake_Game/src/stage.cpp",
+  "file": "/home/seonjae/projects/GAME/Snake_Game/src/stage.cpp",
+  "output": "CMakeFiles/snaker.dir/src/stage.cpp.o"
+}
+]
